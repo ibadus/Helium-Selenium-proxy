@@ -1,5 +1,5 @@
 # Helium-Selenium-proxy
-Using **ip:port:username:password proxy** for your [Chromedriver](https://chromedriver.chromium.org/) for [Selenium](https://github.com/mherrmann/selenium-python-helium) and [Helium](https://github.com/JadenGeller/Helium).
+Using **ip:port:username:password proxy** for your [Chromedriver](https://chromedriver.chromium.org/) for [Selenium](https://selenium-python.readthedocs.io/) and [Helium](https://github.com/mherrmann/selenium-python-helium).
 
 ## Installation
 
